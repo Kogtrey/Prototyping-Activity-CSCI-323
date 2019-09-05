@@ -2,7 +2,7 @@
 Activity for prototyping a children's reading app.
 Note from the authors: Please avoid "Creature Freep"
 
-##Functional Requirements
+## Functional Requirements
 1. bookmark 
 2. progress/ reward system 
 3. login capability 
@@ -14,7 +14,7 @@ Note from the authors: Please avoid "Creature Freep"
 9.help function 
 
 
-##Non-Functional Requirments 
+## Non-Functional Requirments 
 1. intuitive design
 2 download capability 
 3. cross operating system 
