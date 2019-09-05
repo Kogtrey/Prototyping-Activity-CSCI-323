@@ -1,2 +1,2 @@
 # Prototyping-Activity-CSCI-323
-Activity for prototyping a child reading app.
+Activity for prototyping a children's reading app.
