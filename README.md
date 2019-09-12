@@ -69,3 +69,28 @@ Note from the authors: Please avoid "Creature Freep"
     5. a few minutes later he gets back at it 
     6. finishes, sees report and practices what he missed
 	
+## Test Plan: Login
+
+#### input: 
+1. username
+2. password 
+3. button clicks
+
+#### tests:
+1. Test to see if username is captured
+2. Test to see if password is captured
+3. Test to see if correct combination of password and username is recognized and allows login
+4. Test to see if wrong information prevents login to account
+
+#### output: 
+1. Ok or error message if the login works or does not work 
+
+
+## Test Plan: Search and Filter Feature
+
+#### input: 
+1. 
+#### tests:
+1. 
+
+#### output: 
