@@ -89,8 +89,55 @@ Note from the authors: Please avoid "Creature Freep"
 ## Test Plan: Search and Filter Feature
 
 #### input: 
-1. 
+1. genre
+2. age group
+3. title
+4. author
+
 #### tests:
-1. 
+1. Test to see if genre filters books correctly
+2. Test to see if age group filters books correctly
+3. Test to see if title filters books correctly
+4. Test to see if author filters books correctly
+5. Test to see if blocked titles are filtered out
 
 #### output: 
+1. Ok or error message if the metadata matches the filters
+
+
+## Test Plan: Parental Settings
+
+#### input:
+1. password
+
+#### tests:
+1. Test if login is allowed with correct password
+2. Test if login is allowed with incorrect password
+
+#### output:
+1. OK or error message indicating incorrect password
+
+
+## Test Plan: Control Bar Functionality
+
+#### input:
+1. Test input for play button
+2. Test input for pause button
+3. Test input for forward button
+4. Test input for back button
+5. Test input for Read to me button
+6. Test input for Read myself
+7. Test input from speed slider
+
+#### tests:
+1. Test if play button starts playback
+2. Test if pause button stops playback
+3. Test if forward button moves forward a line
+4. Test if back button moves backward a line
+5. Test is speed slider adjusts speed up and down
+6. Test is read myself button replaces play button with record button
+7. Test if read to me button replaces record button with play button 
+
+#### output:
+1. OK or error message indicating if button acted incorrectly
+
