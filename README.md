@@ -62,10 +62,10 @@ Note from the authors: Please avoid "Creature Freep"
     4. go through tutorial 
     
 5. Jim, 10 yrs, english as a second language learner, wants to practice english reading, record his reading with microphone and check pronunciation 
-    	1. He already has an account and signs in 
-	2. He selects a book 
-	3.  read to the tablet “read to you” 
-	4.  he needs to take a break and pause to do something 
-	5. a few minutes later he gets back at it 
-	6. finishes, sees report and practices what he missed
+    1. He already has an account and signs in 
+    2. He selects a book 
+    3.  read to the tablet “read to you” 
+    4.  he needs to take a break and pause to do something 
+    5. a few minutes later he gets back at it 
+    6. finishes, sees report and practices what he missed
 	
