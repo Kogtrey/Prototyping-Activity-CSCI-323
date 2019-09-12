@@ -34,7 +34,7 @@ Note from the authors: Please avoid "Creature Freep"
 - fast forward buttons are confusing 
 - need a user tutorial 
 
-##User Stories
+######User Stories
 1. Johnny 13 year old boy, goal mess with parents credit card information
     1. sign in under his account 
     2. go to account information 
