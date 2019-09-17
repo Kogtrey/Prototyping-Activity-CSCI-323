@@ -1,9 +1,9 @@
 # Names:
-Kody Neill
-Saan Rice
-Catey Meador
-Jan Roddy
-Brandon ?
+1.Kody Neill
+2.Saan Rice
+3.Catey Meador
+4.Jan Roddy
+5.Brandon ?
 # Prototyping-Activity-CSCI-323
 Activity for prototyping a children's reading app.
 Note from the authors: Please avoid "Creature Freep"
